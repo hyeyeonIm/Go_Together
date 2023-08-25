@@ -44,7 +44,7 @@
 }
 
 .outer-container {
-    width: 1600px; /* 360px * 2 */
+    width: 160px; /* 360px * 2 */
     height: 220px; /* 237.75px * 2 */
     background: #fff;
     margin: 10px;
