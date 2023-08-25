@@ -45,7 +45,9 @@
 
 .outer-container {
     width: 160px; /* 360px * 2 */
-    height: 220px; /* 237.75px * 2 */
+    height: 260px; /* 237.75px * 2 */
+    position: relative;
+    overflow: hidden;
     background: #fff;
     margin: 10px;
 }
@@ -56,7 +58,7 @@
     justify-content: space-between;
     align-items: flex-start;
     width: 150px; /* 88.3325px * 2 */
-    height: 220px; /* 158.25px * 2 */
+    height: 230px; /* 158.25px * 2 */
     position: absolute;
     padding: 10px; /* 8.25px * 2 */
     border-radius: 6px; /* 3px * 2 */
