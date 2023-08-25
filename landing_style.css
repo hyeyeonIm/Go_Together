@@ -44,10 +44,8 @@
 }
 
 .outer-container {
-    width: 200px; /* 360px * 2 */
-    height: 350px; /* 237.75px * 2 */
-    position: relative;
-    overflow: hidden;
+    width: 1600px; /* 360px * 2 */
+    height: 220px; /* 237.75px * 2 */
     background: #fff;
     margin: 10px;
 }
@@ -57,8 +55,8 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
-    width: 180px; /* 88.3325px * 2 */
-    height: 300px; /* 158.25px * 2 */
+    width: 150px; /* 88.3325px * 2 */
+    height: 220px; /* 158.25px * 2 */
     position: absolute;
     padding: 10px; /* 8.25px * 2 */
     border-radius: 6px; /* 3px * 2 */
@@ -70,5 +68,5 @@
 #sub_btn {
     display: block;
     margin: 0 auto; 
-    width: 150px;
+    width: 120px;
 }
