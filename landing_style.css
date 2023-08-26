@@ -72,3 +72,8 @@
     margin: 0 auto; 
     width: 100px;
 }
+
+video {
+    display: block;
+    margin: 0 auto; /* 상하 0, 좌우 자동 */
+}
